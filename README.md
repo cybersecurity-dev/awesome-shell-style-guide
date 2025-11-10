@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
+    <a href="https://en.wikipedia.org/wiki/Command-line_interface">
       <img width="20%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Shell_Logo.svg" />
     </a>
 </p>
