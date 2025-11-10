@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
+      <img width="20%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Shell_Logo.svg" />
+    </a>
+</p>
+
 # Awesome Shell Style Guide [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
