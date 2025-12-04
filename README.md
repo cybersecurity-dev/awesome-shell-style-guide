@@ -1,10 +1,13 @@
-<p align="center">
-    <a href="https://en.wikipedia.org/wiki/Command-line_interface">
-      <img width="20%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Shell_Logo.svg" />
-    </a>
-</p>
+<div align="center">
+    <p align="center">
+        <a href="https://en.wikipedia.org/wiki/Command-line_interface">
+          <img width="18%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Shell_Logo.svg" />
+        </a>
+    </p>
 
-# Awesome [Shell](https://en.wikipedia.org/wiki/Unix_shell) Style Guide [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [Shell](https://wikipedia.org/wiki/Unix_shell) Style Guide [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
