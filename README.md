@@ -1,6 +1,6 @@
 <div align="center">
     <p align="center">
-        <a href="https://en.wikipedia.org/wiki/Command-line_interface">
+        <a href="https://wikipedia.org/wiki/Command-line_interface">
           <img width="18%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Shell_Logo.svg" />
         </a>
     </p>
@@ -10,7 +10,7 @@
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/bash/new/)
 
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
@@ -22,7 +22,7 @@
 </p>
 
 ## 📖 Contents
-- [List of Shell Coding Guide](#list-of-c-coding-guide)
+- [List of Shell Coding Guide](#list-of-shell-coding-guide)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
@@ -39,5 +39,8 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-shell-style-guide/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-shell-style-guide-)
